@@ -1,10 +1,7 @@
 ### Hi there 👋
-### 最近心情不好，ts challages reject   --7.31-2022  /8-14/ /8-15/ /8-16/ 
-
 ### 我是一只纯纯的懒狗 😫
 ### 有很多偷懒想法等着我实现 🤨
 ### 现在技术很菜，只能天马行空 🤤
-### 给电脑系统remake了
 <!--
 **cpWhitecat/cpWhitecat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
